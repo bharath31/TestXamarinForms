@@ -1,0 +1,17 @@
+/Users/bnatarajan/Projects/TestXamarinFormsApp/TestXamarinFormsApp/bin/Debug/netstandard2.0/TestXamarinFormsApp.deps.json
+/Users/bnatarajan/Projects/TestXamarinFormsApp/TestXamarinFormsApp/bin/Debug/netstandard2.0/TestXamarinFormsApp.dll
+/Users/bnatarajan/Projects/TestXamarinFormsApp/TestXamarinFormsApp/bin/Debug/netstandard2.0/TestXamarinFormsApp.pdb
+/Users/bnatarajan/Projects/TestXamarinFormsApp/TestXamarinFormsApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/bnatarajan/Projects/TestXamarinFormsApp/TestXamarinFormsApp/obj/Debug/netstandard2.0/Views/AboutPage.xaml.g.cs
+/Users/bnatarajan/Projects/TestXamarinFormsApp/TestXamarinFormsApp/obj/Debug/netstandard2.0/Views/ItemDetailPage.xaml.g.cs
+/Users/bnatarajan/Projects/TestXamarinFormsApp/TestXamarinFormsApp/obj/Debug/netstandard2.0/Views/ItemsPage.xaml.g.cs
+/Users/bnatarajan/Projects/TestXamarinFormsApp/TestXamarinFormsApp/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs
+/Users/bnatarajan/Projects/TestXamarinFormsApp/TestXamarinFormsApp/obj/Debug/netstandard2.0/Views/MenuPage.xaml.g.cs
+/Users/bnatarajan/Projects/TestXamarinFormsApp/TestXamarinFormsApp/obj/Debug/netstandard2.0/Views/NewItemPage.xaml.g.cs
+/Users/bnatarajan/Projects/TestXamarinFormsApp/TestXamarinFormsApp/obj/Debug/netstandard2.0/TestXamarinFormsApp.csproj.CoreCompileInputs.cache
+/Users/bnatarajan/Projects/TestXamarinFormsApp/TestXamarinFormsApp/obj/Debug/netstandard2.0/TestXamarinFormsApp.AssemblyInfoInputs.cache
+/Users/bnatarajan/Projects/TestXamarinFormsApp/TestXamarinFormsApp/obj/Debug/netstandard2.0/TestXamarinFormsApp.AssemblyInfo.cs
+/Users/bnatarajan/Projects/TestXamarinFormsApp/TestXamarinFormsApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/bnatarajan/Projects/TestXamarinFormsApp/TestXamarinFormsApp/obj/Debug/netstandard2.0/TestXamarinFormsApp.dll
+/Users/bnatarajan/Projects/TestXamarinFormsApp/TestXamarinFormsApp/obj/Debug/netstandard2.0/TestXamarinFormsApp.pdb
+/Users/bnatarajan/Projects/TestXamarinFormsApp/TestXamarinFormsApp/obj/Debug/netstandard2.0/TestXamarinFormsApp.csprojAssemblyReference.cache

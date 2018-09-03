@@ -1,0 +1,105 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": "2c8f625021cc1338fd2d437c012d9e4f17d37124"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "TestXamarinFormsApp/1.0.0": {
+        "dependencies": {
+          "Branch-Xamarin-Linking-SDK": "4.0.6",
+          "NETStandard.Library": "2.0.3",
+          "Xamarin.Forms": "3.1.0.697729"
+        },
+        "runtime": {
+          "TestXamarinFormsApp.dll": {}
+        }
+      },
+      "Branch-Xamarin-Linking-SDK/4.0.6": {
+        "dependencies": {
+          "Newtonsoft.Json": "11.0.2"
+        },
+        "runtime": {
+          "lib/portable-net45+win+wp80+MonoTouch10+MonoAndroid10+xamarinmac20+xamarinios10/Branch-Xamarin-SDK.dll": {
+            "assemblyVersion": "1.0.6795.33310",
+            "fileVersion": "1.0.6795.33310"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "Newtonsoft.Json/11.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.2.21924"
+          }
+        }
+      },
+      "Xamarin.Forms/3.1.0.697729": {
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.Core.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          },
+          "lib/netstandard2.0/Xamarin.Forms.Platform.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/netstandard2.0/Xamarin.Forms.Xaml.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestXamarinFormsApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Branch-Xamarin-Linking-SDK/4.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oKnNPFxO0IUz/TBYmDKS8PDufAuiywn7HlBp3xb7VG1JAeG0OABnfAP1vmDGdy+hdYoOTCdHQsywGIfcuBs3hg==",
+      "path": "branch-xamarin-linking-sdk/4.0.6",
+      "hashPath": "branch-xamarin-linking-sdk.4.0.6.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "Newtonsoft.Json/11.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
+      "path": "newtonsoft.json/11.0.2",
+      "hashPath": "newtonsoft.json.11.0.2.nupkg.sha512"
+    },
+    "Xamarin.Forms/3.1.0.697729": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YlFOM9u8onIRxJwYJ3l+O0wFKqzzrDjDrgnoBr1rct+eaQKU77vFydxvTP+WxYlYzR14hYvyLNC65L84+6ke6w==",
+      "path": "xamarin.forms/3.1.0.697729",
+      "hashPath": "xamarin.forms.3.1.0.697729.nupkg.sha512"
+    }
+  }
+}
